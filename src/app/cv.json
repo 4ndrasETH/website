@@ -1,0 +1,186 @@
+{
+  "name": "Andras Szucs",
+  "title": "Full Stack Developer",
+  "location": "Europe/Budapest (CET)",
+  "email": "andras@andras.codes",
+  "linkedin": "andrascodes",
+  "github": "andrascodes",
+  "experience": [
+    {
+      "title": "Frontend Lead",
+      "company": "MetaStreet Labs Inc.",
+      "companyUrl": "https://www.metastreet.xyz/",
+      "location": "Remote",
+      "start": 1640995200000,
+      "end": 1680220800000,
+      "bulletPoints": [
+        "Worked on a decentralized liquidity protocol facilitating NFT-backed loans.",
+        "Led the design and development of 4 separate decentralized web application in just under a year, managing a globally distributed team.",
+        "Established the Frontend Team's workflows, monorepo architecture, design system and culture centered around code reviews and stacked changes.",
+        "The launched products powered a 4x growth in loan volume from $20MM to $83MM."
+      ],
+      "keywords": [
+        "React",
+        "Typescript",
+        "Next.js",
+        "Storybook",
+        "Nx",
+        "GraphQL",
+        "ethers.js",
+        "wagmi",
+        "The Graph Protocol",
+        "SIWE",
+        "Engineering Management",
+        "UX Design"
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Inex One",
+      "companyUrl": "https://inex.one/",
+      "location": "Stockholm, Sweden (Remote)",
+      "start": 1580515200000,
+      "end": 1640908800000,
+      "bulletPoints": [
+        "Drove core technical advancements on the frontend application and backend systems, focusing on features like calendar integrations, video conferencing, chat and Chrome Extension.",
+        "Laid the groundwork for the company's website using GatsbyJS and Netlify CMS, ensuring SEO optimization.",
+        "These contributions catalyzed a 10x surge in registered users and a 30x revenue growth within two years."
+      ],
+      "keywords": [
+        "React",
+        "Node.js",
+        "Typescript",
+        "Parse",
+        "Twilio",
+        "Storybook",
+        "Gatsby",
+        "Netlify CMS",
+        "Chrome Extensions",
+        "SEO"
+      ]
+    },
+    {
+      "title": "Full Stack Developer & UX Designer",
+      "company": "Colivia Sweden AB",
+      "companyUrl": "https://colivia.se/",
+      "location": "Stockholm, Sweden (Remote)",
+      "start": 1548979200000,
+      "end": 1569888000000,
+      "bulletPoints": [
+        "Single-handedly built a vital in-house system to streamline and digitize healthcare job assignments, increasing the Colivia app's utility for healthcare professionals across Sweden.",
+        "Leveraged a participatory design approach, actively integrating sales staff input, ensuring the interface directly catered to the team.",
+        "My innovation transformed the sales team's operational workflow and made assignment management and job matching dramatically more efficient."
+      ],
+      "keywords": [
+        "React",
+        "Node.js",
+        "Apollo",
+        "GraphQL",
+        "AWS",
+        "Google Maps",
+        "Styled-Components",
+        "UX/UI Design"
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Trail Games AB",
+      "companyUrl": "https://www.trail.gg/",
+      "location": "Stockholm, Sweden",
+      "start": 1525132800000,
+      "end": 1530403200000,
+      "bulletPoints": [
+        "Successfully transitioned the company's entire frontend application from Ember.js to React in just 2 months, ahead of the projected timeline.",
+        "Facilitated the hiring process by updating to modern web technologies, making it easier to attract top-tier talent.",
+        "Initiated the development of a developer-centric site, paving the way for collaborations with independent game developers and studios, expanding Trail's market reach."
+      ],
+      "keywords": ["React", "Ember.js", "Typescript"]
+    },
+    {
+      "title": "Technical Advisor, Frontend Developer",
+      "company": "Chatler.AI Ltd. (StartupYard alumni)",
+      "companyUrl": "https://www.chatler.ai/",
+      "location": "Budapest, Hungary & Prague, Czech Rep.",
+      "start": 1472688000000,
+      "end": 1485907200000,
+      "bulletPoints": [
+        "Guided product strategy as a Technical Advisor, ensuring acceptance into Central Europe's premier startup accelerator: StartupYard.",
+        "Single-handedly crafted the company's inaugural website and engineered a static site generator with continuous AWS deployment, setting the foundation for future expansions.",
+        "My work enabled the company to continue with their accelerator program and apply for further seed funding."
+      ],
+      "keywords": [
+        "Gulp",
+        "JS",
+        "Pug",
+        "AWS",
+        "SASS",
+        "User Research",
+        "Product Strategy"
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": "Nextent Informatics Co.",
+      "companyUrl": "https://www.nextent.hu/",
+      "location": "Budapest, Hungary",
+      "start": 1435708800000,
+      "end": 1464220800000,
+      "bulletPoints": [
+        "Developed a strategic website that automated project idea collection, significantly boosting high-value mobile app development inquiries.",
+        "Pioneered a comprehensive front-end revamp for Magyar Telekom's MediaWiki, enhancing both usability and aesthetic appeal, expediting the onboarding of new developers, and uplifting the platform's overall user experience."
+      ],
+      "keywords": ["JS", "jQuery", "MediaWiki"]
+    }
+  ],
+  "education": [
+    {
+      "title": "MSc. Human-Computer Interaction & Design",
+      "university": "Université Paris-Sud",
+      "universityUrl": "https://www.universite-paris-saclay.fr/en",
+      "location": "Paris, France",
+      "start": 1535760000000,
+      "end": 1567209600000,
+      "bulletPoints": [
+        "Part of the EIT Digital Master School Double-degree program",
+        "Specialized in the UX Design and development of Virtual and Augmented Reality interfaces"
+      ]
+    },
+    {
+      "title": "MSc. Human-Computer Interaction & Design",
+      "university": "KTH Royal Institute of Technology",
+      "universityUrl": "https://www.kth.se/",
+      "location": "Stockholm, Sweden",
+      "start": 1503187200000,
+      "end": 1530403200000,
+      "bulletPoints": [
+        "Part of the EIT Digital Master School Double-degree program",
+        "Specialized in User Research and the evaluation of user interfaces"
+      ]
+    },
+    {
+      "title": "MSc. Minor Entrepreneurship & Innovation",
+      "university": "EIT Digital Master School",
+      "universityUrl": "https://masterschool.eitdigital.eu/",
+      "location": "Stockholm, Sweden & Paris, France",
+      "start": 1503187200000,
+      "end": 1567209600000,
+      "bulletPoints": [
+        "Part of the EIT Digital Master School Double-degree program",
+        "A minor degree where I studied the formulation and evaluation of business models"
+      ]
+    },
+    {
+      "title": "BSc. Computer Science",
+      "university": "Eötvös Lóránd University",
+      "universityUrl": "https://www.inf.elte.hu/",
+      "location": "Budapest, Hungary",
+      "start": 1377993600000,
+      "end": 1501459200000,
+      "bulletPoints": [
+        "Thesis Project: Chatbot Analytics web application",
+        "A Facebook Messenger chatbot framework which lets the user deploy a functioning bot with a database and an analytics dashboard in minutes",
+        "Developed a Machine Learning service API to classify conversations"
+      ]
+    }
+  ]
+}
