@@ -12,9 +12,11 @@ const playfair = Lora({ subsets: ["latin"] });
 export default function Home() {
   return (
     <main
-      className={`${playfair.className} container mx-auto my-20 print:my-5 flex flex-col gap-4`}
+      className={`${playfair.className} container xl:max-w-7xl mx-auto my-12 md:my-20 print:my-5 p-1 md:p-4 flex flex-col gap-4`}
     >
-      <div className={`${montserrat.className} flex`}>
+      <div
+        className={`${montserrat.className} flex flex-col md:flex-row print:flex-row gap-10`}
+      >
         <div className="flex flex-1 flex-col items-center text-center">
           <Typography variant="h1" className="uppercase whitespace-nowrap">
             {cv.name}
@@ -29,7 +31,7 @@ export default function Home() {
             {cv.location}
           </Typography>
         </div>
-        <div className="flex flex-col gap-2 print:gap-1">
+        <div className="flex flex-col gap-2 print:gap-1 items-center justify-center md:items-start md:justify-start print:items-start print:justify-start">
           <div className="flex gap-2">
             <Typography variant="body">Email: </Typography>
             <Typography variant="body">
