@@ -19,9 +19,19 @@ const redirects = [
   },
 ];
 
+const headers = [
+  {
+    source: "/.well-known/nostr.json",
+    headers: [{ key: "Access-Control-Allow-Origin", value: "*" }],
+  },
+];
+
 const nextConfig = {
   async redirects() {
     return redirects;
+  },
+  async headers() {
+    return headers;
   },
 };
 
