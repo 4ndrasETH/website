@@ -1,12 +1,12 @@
-import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "András Szücs Resume",
-  description: "Resume of András Szücs",
+  title: "Andras codes",
+  description: "Andras's Personal Site",
 };
 
 export default function RootLayout({
